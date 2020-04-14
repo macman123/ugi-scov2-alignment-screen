@@ -1,0 +1,12 @@
+molecule	gene	start	end	strand	direction
+SARS-CoV-2	ORF1ab	266	21555	forward	1
+SARS-CoV-2	S	21563	25384	forward	1
+SARS-CoV-2	ORF3a	25393	26220	forward	1
+SARS-CoV-2	E	26245	26472	forward	1
+SARS-CoV-2	M	26523	27191	forward	1
+SARS-CoV-2	ORF6	27202	27387	forward	1
+SARS-CoV-2	ORF7a	27394	27759	forward	1
+SARS-CoV-2	ORF7b	27756	27887	forward	1
+SARS-CoV-2	ORF8	27894	28259	forward	1
+SARS-CoV-2	N	28274	29533	forward	1
+SARS-CoV-2	ORF10	29558	29674	forward	1
